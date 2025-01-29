@@ -14,10 +14,10 @@
     margin-top: -10px
     
   }
-   /* Navigation Bar */
+  
    nav.container {
     background: #5c5a5a;
-    color: #020202; /* Gold text */
+    color: #020202; 
     padding: 10px 0;
     border-radius: 50px;
     margin-top: -110px;
@@ -43,15 +43,15 @@
   .nav-item a {
     display: block;
     padding: 14px 100px;
-    color: #ffffff; /* Gold text */
+    color: #ffffff; 
     text-decoration: none;
     text-align: center;
   }
   .nav-item a:hover {
-    background: #f3e1ae; /* Dark gray background on hover */
-    color: #04534f; /* Gold text on hover */
+    background: #f3e1ae; 
+    color: #04534f; 
   }
- /* Main Heading */
+
  .main-heading {
     text-align: center;
     margin-top: -20px;
@@ -100,7 +100,7 @@
   .cards3 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: #000000; /* Gold text */
+    color: #000000; 
     margin-top: -10px;
    
    
@@ -119,12 +119,12 @@
   
   .location-info p {
     font-size:15px;
-    color: #fffafa; /* Gold text */
+    color: #fffafa; 
     font-family: 'Times New Roman', Times, serif;
     padding: 8%;
   }
 
-  /* Copyright Section */
+
   .copyright {
     text-align: center;
     padding: 5px;
@@ -179,7 +179,7 @@
     font-size: 20px;
   }
   a, a:visited, a:hover, a:active {
-    color: white; /* Ensures the link color stays white in all states */
+    color: white; 
     font-size: 20px;
     text-decoration: none;    
     

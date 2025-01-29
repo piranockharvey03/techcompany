@@ -1,7 +1,7 @@
 .Feedback1{
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
-    color: #000000; /* Light text color for contrast */
+    color: #000000; 
     background-image: url(Premium\ Photo\ _\ Technology\ Network\ Background_.jpeg);
     font-size: 20px;
     max-width: 1400px;
@@ -10,10 +10,10 @@
     color:  #e6e6e6;
 
 }
-  /* Navigation Bar */
+  
   nav.container {
     background: #5c5a5a;
-    color: #020202; /* Gold text */
+    color: #020202; 
     padding: 10px 0;
     border-radius: 50px;
     margin-top: -110px;
@@ -41,13 +41,13 @@ ul.nav-tabs {
 .nav-item a {
     display: block;
     padding: 14px 100px;
-    color: #000000; /* Gold text */
+    color: #000000; 
     text-decoration: none;
     text-align: center;
   }
 .nav-item a:hover {
-    background: #f3e1ae; /* Dark gray background on hover */
-    color: #04534f; /* Gold text on hover */
+    background: #f3e1ae;
+    color: #04534f; 
   }
 .logo{
     size: 5px;
@@ -66,7 +66,7 @@ ul.nav-tabs {
     
   }
  
-  /* Style for the submit button */
+  
   input[type="submit"] {
       background-color: #09b8be;
       color: white;
@@ -167,14 +167,14 @@ ul.nav-tabs {
     
     .location-info p {
       font-size:15px;
-      color: #fffafa; /* Gold text */
+      color: #fffafa; 
       font-family: 'Times New Roman', Times, serif;
       padding: 8%;
       margin-top: -60px;
 
     }
   
-    /* Copyright Section */
+    
     .copyright {
       text-align: center;
       padding: 5px;
@@ -226,7 +226,7 @@ ul.nav-tabs {
     }
    
     a, a:visited, a:hover, a:active {
-      color: white; /* Ensures the link color stays white in all states */
+      color: white; 
       font-size: 20px;
       text-decoration: none;
     }

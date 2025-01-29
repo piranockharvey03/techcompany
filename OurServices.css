@@ -43,13 +43,13 @@ ul.nav-tabs {
 .nav-item a {
     display: block;
     padding: 14px 100px;
-    color: #ffffff; /* Gold text */
+    color: #ffffff;
     text-decoration: none;
     text-align: center;
   }
 .nav-item a:hover {
-    background: #f3e1ae; /* Dark gray background on hover */
-    color: #04534f; /* Gold text on hover */
+    background: #f3e1ae;
+    color: #04534f; 
   }
   .location-info {
     padding: 10px;
@@ -100,12 +100,12 @@ ul.nav-tabs {
 }
   .location-info p {
     font-size:15px;
-    color: #fffafa; /* Gold text */
+    color: #fffafa; 
     font-family: 'Times New Roman', Times, serif;
     padding: 8%;
   }
 
-  /* Copyright Section */
+ 
   .copyright {
     text-align: center;
     padding: 5px;
@@ -157,7 +157,7 @@ ul.nav-tabs {
     font-size: 25px;
   }
   a, a:visited, a:hover, a:active {
-    color: white; /* Ensures the link color stays white in all states */
+    color: white; 
     font-size: 20px;
     text-decoration: none;
   }
