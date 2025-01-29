@@ -1,0 +1,187 @@
+.About1{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color:  #e6e6e6;
+    background-image: url(Premium\ Photo\ _\ Technology\ Network\ Background_.jpeg);
+}
+
+.logo{
+    size: 5px;
+    border-radius: 300px;
+    width: 100px;
+    height: 100x;
+    
+    margin-top: -10px
+    
+  }
+   /* Navigation Bar */
+   nav.container {
+    background: #5c5a5a;
+    color: #020202; /* Gold text */
+    padding: 10px 0;
+    border-radius: 50px;
+    margin-top: -110px;
+    margin-left: 100px;
+    width: 1240px;
+  
+    
+  }
+  
+  ul.nav-tabs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+     font-size: 25px;
+  }
+  
+  .nav-item {
+    margin: 0;
+  }
+  
+  .nav-item a {
+    display: block;
+    padding: 14px 100px;
+    color: #ffffff; /* Gold text */
+    text-decoration: none;
+    text-align: center;
+  }
+  .nav-item a:hover {
+    background: #f3e1ae; /* Dark gray background on hover */
+    color: #04534f; /* Gold text on hover */
+  }
+ /* Main Heading */
+ .main-heading {
+    text-align: center;
+    margin-top: -20px;
+    color:  #e6e6e6;
+    font-size: 30px;
+  }
+  
+  .cards2{
+    display: flex;
+    flex-wrap: wrap; 
+    float: right;
+    justify-content: space-around;
+    align-items: flex-start; 
+    margin-bottom: -200px;
+    margin: 20px;
+    margin-top: -45px;
+  }
+
+  
+  .cards3{
+    background-color: rgba(227, 234, 235, 0.938);
+    padding: 15px;
+    margin: 10px ;
+    box-shadow: 0 10px 30px rgba(1, 128, 160, 0.15);
+    height: 400px;   
+    width: 350px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 15px; 
+    border-radius: 50px;
+    animation: slideIn 1s ease-out forwards;
+
+    
+  }
+  @keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+  }
+  .cards3 p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #000000; /* Gold text */
+    margin-top: -10px;
+   
+   
+  }
+  .location-info {
+    padding: 10px;
+    margin: 20px ;
+    max-width: 800px;
+    margin-bottom: -320px;
+    margin-right: 1100px;
+    margin-top: -25px;
+    border-radius: 40px;
+    margin-left: 70px;
+    
+  }
+  
+  .location-info p {
+    font-size:15px;
+    color: #fffafa; /* Gold text */
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8%;
+  }
+
+  /* Copyright Section */
+  .copyright {
+    text-align: center;
+    padding: 5px;
+    margin: 5px auto;
+    margin-left: 1000px;
+    margin-top: -230px;
+    border-radius: 40px;
+
+   
+  }
+  
+  .copyright p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 18%;
+    color: #fffefe;
+   
+  }
+  .lowerpoint{
+    background-color: rgba(2, 45, 51, 0.938);
+    height: 250px;
+    align-content: space-around;
+    margin-top: -100px;
+    margin-bottom: -50px;
+    margin-left: -50px;
+    width:1400;
+    margin-right: -10px;
+   
+  
+
+  }
+  .icons{
+    text-align: center;
+    padding: 5px;
+    margin: 5px auto;
+    width: 50px;
+    height: 200px;
+    margin-left: 350px;
+    margin-top: 100px;
+    border-radius: 40px;
+    background-color: #fffefe;
+
+  }
+  .quicklinks{
+    margin-left: 500px;
+    margin-top:-170px;
+    border-radius: 40px;
+    color: white;  
+
+  }
+  .quicklinks p{
+    font-size: 20px;
+  }
+  a, a:visited, a:hover, a:active {
+    color: white; /* Ensures the link color stays white in all states */
+    font-size: 20px;
+    text-decoration: none;    
+    
+  }
+  
